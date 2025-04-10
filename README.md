@@ -2,6 +2,7 @@
 
 This is a **professional-grade trading platform** originally developed by Hani Mousavi based on years of live trading experience in Forex and indices. It is now released as a legacy open-source version to inspire, educate, and help other traders and developers.
 
+
 ---
 
 ## ⚙️ Key Features
@@ -51,6 +52,8 @@ MIT License — You may use, modify, and distribute this code with attribution. 
 ---
 
 ## 👨‍💻 Created By
+
+For more tools and ideas, visit my personal website: [hani.solutions](https://hani.solutions)
 
 Hani Mousavi — System designer, trader, and inventor. Connect with me on Email: [Info@Hani.solutions](mailto\:Info@Hani.solutions)
 
