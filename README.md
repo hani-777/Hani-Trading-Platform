@@ -52,7 +52,7 @@ MIT License — You may use, modify, and distribute this code with attribution. 
 
 ## 👨‍💻 Created By
 
-Hani Mousavi — System designer, trader, and inventor. Connect with me on Email: [Ino@Hani.solutions](mailto\:Info@Hani.solutions)
+Hani Mousavi — System designer, trader, and inventor. Connect with me on Email: [Info@Hani.solutions](mailto\:Info@Hani.solutions)
 
 ---
 
