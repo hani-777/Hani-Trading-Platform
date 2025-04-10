@@ -29,8 +29,7 @@ This is a **professional-grade trading platform** originally developed by Hani M
 
 ---
 
-## 📷 Screenshot
-
+![Dashboard Screenshot](images/Hani-Platform.png)
 
 
 ---
